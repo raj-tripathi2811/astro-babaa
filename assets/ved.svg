@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+    <defs><radialGradient id="g"><stop stop-color="#5c3a7a"/><stop offset="1" stop-color="#172033"/></radialGradient>
+    <linearGradient id="r" x1="0" x2="1"><stop stop-color="#d47a22"/><stop offset="1" stop-color="#f0a126"/></linearGradient></defs>
+    <rect width="600" height="600" rx="36" fill="url(#g)"/>
+    <circle cx="300" cy="255" r="125" fill="#b9815a"/>
+    <path d="M175 245 Q185 90 300 100 Q420 90 430 245 Q375 190 300 195 Q225 190 175 245" fill="#241b1a"/>
+    <ellipse cx="255" cy="260" rx="12" ry="8" fill="#1a1320"/><ellipse cx="345" cy="260" rx="12" ry="8" fill="#1a1320"/>
+    <path d="M275 310 Q300 330 325 310" fill="none" stroke="#5a2f2a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M300 225 L300 280" stroke="#e33b27" stroke-width="9" stroke-linecap="round"/>
+    <path d="M150 600 Q165 420 300 390 Q435 420 450 600" fill="url(#r)"/>
+    <circle cx="300" cy="430" r="24" fill="#3a2015"/>
+    <circle cx="300" cy="430" r="11" fill="#f6bd35"/>
+    <text x="300" y="555" text-anchor="middle" fill="white" font-family="Arial" font-size="25" font-weight="700">Premium Acharya Ved</text>
+    </svg>
