@@ -5,17 +5,17 @@
 // UPI: your real UPI ID.
 // Social links: paste your real Instagram/Facebook profile links.
 // ============================================================
-const WHATSAPP_NUMBER_1 = "919999999999"; // PRIMARY - replace with your real WhatsApp number
-const WHATSAPP_NUMBER_2 = "919888888888"; // ALTERNATE - replace with your second real WhatsApp number
-const CONTACT_NUMBER_1 = "919999999999";  // PRIMARY CALL - replace with your real number
-const CONTACT_NUMBER_2 = "919888888888";  // ALTERNATE CALL - replace with your second real number
+const WHATSAPP_NUMBER_1 = "917355488003"; // PRIMARY - replace with your real WhatsApp number
+const WHATSAPP_NUMBER_2 = "918128261488"; // ALTERNATE - replace with your second real WhatsApp number
+const CONTACT_NUMBER_1 = "917355488003";  // PRIMARY CALL - replace with your real number
+const CONTACT_NUMBER_2 = "918128261488";  // ALTERNATE CALL - replace with your second real number
 // Backward-compatible aliases used by the existing site:
 const WHATSAPP_NUMBER = WHATSAPP_NUMBER_1;
 const CONTACT_NUMBER = CONTACT_NUMBER_1;
-const UPI_ID = "yourupi@bank";
+const UPI_ID = "rt8365768@okicici";
 const UPI_PAYEE_NAME = "Astro Babaa";
-const INSTAGRAM_URL = "https://instagram.com/";
-const FACEBOOK_URL = "https://facebook.com/";
+const INSTAGRAM_URL = "https:instagram.com/astro_babaa_";
+const FACEBOOK_URL = "https://www.facebook.com/share/1aDLXjdPSZ/";
 const KUNDALI_PRICE = 11;
 const REGULAR_CHAT_PRICE_15MIN = 99;
 const LAUNCH_OFFER_LIMIT = 100;
